@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/organo-filmes/static/css/main.3f3661c5.css",
+    "main.js": "/organo-filmes/static/js/main.95dc24e9.js",
+    "index.html": "/organo-filmes/index.html",
+    "main.3f3661c5.css.map": "/organo-filmes/static/css/main.3f3661c5.css.map",
+    "main.95dc24e9.js.map": "/organo-filmes/static/js/main.95dc24e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f3661c5.css",
+    "static/js/main.95dc24e9.js"
+  ]
+}
